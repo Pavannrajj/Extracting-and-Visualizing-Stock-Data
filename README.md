@@ -42,4 +42,4 @@ This repository contains two Jupyter notebooks demonstrating different methods t
 ## Author
 
 Pavan  
-B.Tech – Artificial Intelligence & Data Science
+B.E – Artificial Intelligence & Data Science
